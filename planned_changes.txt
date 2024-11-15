@@ -1,0 +1,14 @@
+allow for -rm or something like that to exclude attempts from graph 
+
+mayyyve add in notes per sesion 
+
+potentially add in thresholds for sesions (i dont wanna penalize myself for adding in a casual session)
+
+add in oct 10-21 sessions (no big deal) 
+
+allow for output to file? 
+
+make bash scrpit to run it easier 
+
+
+should all take like 30 mins to add :) 
